@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Melven Bagolaque</h1>
-<img align="right" alt="coding" width="1920" src="https://www.canva.com/design/DAFYIO12nxY/z9nEIOVqISuyUoamL7h6Bg/view?utm_content=DAFYIO12nxY&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=woodwalkerr&label=Profile%20views&color=0e75b6&style=flat" alt="woodwalkerr" /> </p>
 
 - 🌱 I’m currently learning **Javascipt**
 
