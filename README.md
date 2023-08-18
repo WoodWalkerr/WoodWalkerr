@@ -1,6 +1,7 @@
 <h1 align="center"> 📸 🛰️ 🗺️ 🌊 🏄 📚 🎸 🎶 🚀</h1>
 
-<img src="https://i.pinimg.com/originals/d2/6a/b6/d26ab6e45a7d77b5f41704c31403d40c.gif" style="height: 100px; margin-bottom: 100px;" alt="Iconic GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://tenor.com/view/o2-o2bubl-bubl-bubble-cute-gif-20473515" alt="Iconic GIF" style="height: 100px; margin-top: 10px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://tenor.com/view/o2-o2bubl-bubl-bubble-cute-gif-20473515" style="height: 130px; padding-top:" alt="Iconic GIF">
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n<img src="" style="height: 130px; padding-top:" alt="Iconic GIF">
 
 <br>
 
