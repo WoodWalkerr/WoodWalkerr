@@ -1,16 +1,54 @@
-<h1 align="center">Hi 👋, I'm Melven</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
+<h1 align="center"> 📸 🛰️ 🗺️ 🌊 🏄 📚 🎸 🎶 🚀</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=woodwalker&label=Profile%20views&color=0e75b6&style=flat" alt="woodwalker" /> </p>
+<img src="https://i.pinimg.com/originals/d2/6a/b6/d26ab6e45a7d77b5f41704c31403d40c.gif" style="height: 100px; margin-bottom: 100px;" alt="Iconic GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.kym-cdn.com/photos/images/original/001/123/732/1e7.gif" alt="Iconic GIF" style="height: 100px; margin-top: 10px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="[https://i.pinimg.com/originals/1a/82/8a/1a828a1a4464e5fb83196b04efebc17d.gif](https://tenor.com/view/o2-o2bubl-bubl-bubble-cute-gif-20473515)" style="height: 130px; padding-top:" alt="Iconic GIF">
 
-- 💬 Ask me about **PERN**
+<br>
 
-- 📫 How to reach me **melvenbagolaque@gmail.com**
+🔥 Passionate Software Engineer ⌨️ <br>
+📚 Building impactful, scalable web apps: always learning, always growing <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/melven-bagolaque-479b90258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/melven-bagolaque-479b90258/" height="30" width="40" /></a>
-</p>
+<br>
+<details open>
+<summary>📜 Languages</summary>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+</details>
+
+<br>
+
+<details>
+  <summary>🧪 Technologies</summary>
+
+#### Frontend
+
+![ReactJS](https://img.shields.io/badge/-React.js-000?&logo=React)
+![Boostrap](https://img.shields.io/badge/-Boostrap-000?&logo=bootstrap)
+![less](https://img.shields.io/badge/-less-000?&logo=less&logoColor=16537e)
+
+#### Backend
+
+![Django](https://img.shields.io/badge/-Django-000?&logo=django&logoColor=103e2e)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000?&logo=express)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
+
+#### Layout and Design
+
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000?&logo=adobephotoshop)
+![Adobe InDesign](https://img.shields.io/badge/-Adobe%20InDesign-000?&logo=adobeindesign)
+![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?&logo=adobelightroom)
+![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere-000?&logo=adobepremierepro)
+![Adobe AfterEffects](https://img.shields.io/badge/-Adobe%20AfterEffects-000?&logo=adobeaftereffects)
+
+#### Database-related
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+![SQlite](https://img.shields.io/badge/-SQlite-000?&logo=sqlite&logoColor=3d85c6)
+
+</details>
+
+<br>
